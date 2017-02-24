@@ -1,1 +1,17 @@
-{}
+{
+    "com.episode6.hackit.groovykit:gk-files": {
+        "groupId": "com.episode6.hackit.groovykit",
+        "artifactId": "gk-files",
+        "version": "0.0.3"
+    },
+    "com.episode6.hackit.groovykit:gk-versions": {
+        "groupId": "com.episode6.hackit.groovykit",
+        "artifactId": "gk-versions",
+        "version": "0.0.3"
+    },
+    "org.spockframework:spock-core": {
+        "groupId": "org.spockframework",
+        "artifactId": "spock-core",
+        "version": "1.1-groovy-2.4-rc-3"
+    }
+}
