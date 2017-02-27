@@ -19,6 +19,11 @@
         "artifactId": "gk-versions",
         "version": "0.0.3"
     },
+    "com.episode6.hackit.nestable:nestable": {
+        "groupId": "com.episode6.hackit.nestable",
+        "artifactId": "nestable",
+        "version": "0.0.1"
+    },
     "junit:junit": {
         "groupId": "junit",
         "artifactId": "junit",
@@ -28,6 +33,11 @@
         "groupId": "net.sourceforge.findbugs",
         "artifactId": "jsr305",
         "version": "1.3.7"
+    },
+    "org.bouncycastle:bcpg-jdk15on": {
+        "groupId": "org.bouncycastle",
+        "artifactId": "bcpg-jdk15on",
+        "version": "1.56"
     },
     "org.mockito:mockito-all": {
         "groupId": "org.mockito",
