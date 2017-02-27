@@ -14,6 +14,11 @@
         "artifactId": "deployable",
         "version": "0.1.2"
     },
+    "com.episode6.hackit.gdmc:gdmc": {
+        "groupId": "com.episode6.hackit.gdmc",
+        "artifactId": "gdmc",
+        "version": "0.1"
+    },
     "com.episode6.hackit.groovykit:gk-files": {
         "groupId": "com.episode6.hackit.groovykit",
         "artifactId": "gk-files",
