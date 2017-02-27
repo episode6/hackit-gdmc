@@ -4,6 +4,11 @@
         "artifactId": "gradle",
         "version": "2.2.3"
     },
+    "com.episode6.hackit.chop:chop-core": {
+        "groupId": "com.episode6.hackit.chop",
+        "artifactId": "chop-core",
+        "version": "0.1.8"
+    },
     "com.episode6.hackit.deployable:deployable": {
         "groupId": "com.episode6.hackit.deployable",
         "artifactId": "deployable",
@@ -39,10 +44,20 @@
         "artifactId": "bcpg-jdk15on",
         "version": "1.56"
     },
+    "org.easytesting:fest-assert-core": {
+        "groupId": "org.easytesting",
+        "artifactId": "fest-assert-core",
+        "version": "2.0M10"
+    },
     "org.mockito:mockito-all": {
         "groupId": "org.mockito",
         "artifactId": "mockito-all",
         "version": "1.9.5"
+    },
+    "org.mockito:mockito-core": {
+        "groupId": "org.mockito",
+        "artifactId": "mockito-core",
+        "version": "2.7.12"
     },
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
