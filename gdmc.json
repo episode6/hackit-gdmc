@@ -34,6 +34,11 @@
         "artifactId": "nestable",
         "version": "0.0.1"
     },
+    "javax.inject:javax.inject": {
+        "groupId": "javax.inject",
+        "artifactId": "javax.inject",
+        "version": "1"
+    },
     "junit:junit": {
         "groupId": "junit",
         "artifactId": "junit",
