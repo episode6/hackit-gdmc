@@ -37,7 +37,8 @@
     "javax.inject:javax.inject": {
         "groupId": "javax.inject",
         "artifactId": "javax.inject",
-        "version": "1"
+        "version": "1",
+        "locked": true
     },
     "junit:junit": {
         "groupId": "junit",
