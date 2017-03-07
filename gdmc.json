@@ -55,6 +55,11 @@
         "artifactId": "bcpg-jdk15on",
         "version": "1.56"
     },
+    "org.easymock:easymock": {
+        "groupId": "org.easymock",
+        "artifactId": "easymock",
+        "version": "3.4"
+    },
     "org.easytesting:fest-assert-core": {
         "groupId": "org.easytesting",
         "artifactId": "fest-assert-core",
