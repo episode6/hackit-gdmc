@@ -73,7 +73,7 @@
     "org.mockito:mockito-core": {
         "groupId": "org.mockito",
         "artifactId": "mockito-core",
-        "version": "2.7.17"
+        "version": "2.7.19"
     },
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
