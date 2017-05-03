@@ -98,6 +98,6 @@
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
         "artifactId": "spock-core",
-        "version": "1.1-groovy-2.4-rc-3"
+        "version": "1.1-groovy-2.4-rc-4"
     }
 }
