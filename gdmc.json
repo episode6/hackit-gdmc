@@ -12,7 +12,7 @@
     "com.episode6.hackit.deployable:deployable": {
         "groupId": "com.episode6.hackit.deployable",
         "artifactId": "deployable",
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
