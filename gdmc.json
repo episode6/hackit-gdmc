@@ -110,6 +110,26 @@
         "artifactId": "mockito-core",
         "version": "2.8.9"
     },
+    "org.powermock:powermock-api-mockito2": {
+        "groupId": "org.powermock",
+        "artifactId": "powermock-api-mockito2",
+        "version": "1.7.0RC4"
+    },
+    "org.powermock:powermock-classloading-xstream": {
+        "groupId": "org.powermock",
+        "artifactId": "powermock-classloading-xstream",
+        "version": "1.7.0RC4"
+    },
+    "org.powermock:powermock-module-junit4": {
+        "groupId": "org.powermock",
+        "artifactId": "powermock-module-junit4",
+        "version": "1.7.0RC4"
+    },
+    "org.powermock:powermock-module-junit4-rule": {
+        "groupId": "org.powermock",
+        "artifactId": "powermock-module-junit4-rule",
+        "version": "1.7.0RC4"
+    },
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
         "artifactId": "spock-core",
