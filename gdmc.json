@@ -1,4 +1,19 @@
 {
+    "com.android.support.constraint:constraint-layout": {
+        "groupId": "com.android.support.constraint",
+        "artifactId": "constraint-layout",
+        "version": "1.0.2"
+    },
+    "com.android.support.test.espresso:espresso-core": {
+        "groupId": "com.android.support.test.espresso",
+        "artifactId": "espresso-core",
+        "version": "2.2.2"
+    },
+    "com.android.support:appcompat-v7": {
+        "groupId": "com.android.support",
+        "artifactId": "appcompat-v7",
+        "version": "24.2.1"
+    },
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
