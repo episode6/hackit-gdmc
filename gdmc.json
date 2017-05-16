@@ -17,7 +17,7 @@
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
-        "version": "2.3.1"
+        "version": "2.3.2"
     },
     "com.episode6.hackit.chop:chop-core": {
         "groupId": "com.episode6.hackit.chop",
