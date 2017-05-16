@@ -165,6 +165,11 @@
         "artifactId": "powermock-module-junit4-rule",
         "version": "1.7.0RC4"
     },
+    "org.robolectric:robolectric": {
+        "groupId": "org.robolectric",
+        "artifactId": "robolectric",
+        "version": "3.3.2"
+    },
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
         "artifactId": "spock-core",
