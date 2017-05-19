@@ -94,6 +94,21 @@
         "artifactId": "nestable",
         "version": "0.0.1"
     },
+    "com.episode6.hackit.typed:typed-core": {
+        "groupId": "com.episode6.hackit.typed",
+        "artifactId": "typed-core",
+        "version": "0.0.1"
+    },
+    "com.episode6.hackit.typed:typed-preferences": {
+        "groupId": "com.episode6.hackit.typed",
+        "artifactId": "typed-preferences",
+        "version": "0.0.1"
+    },
+    "com.episode6.hackit.typed:typed-testing-shared": {
+        "groupId": "com.episode6.hackit.typed",
+        "artifactId": "typed-testing-shared",
+        "version": "0.0.1"
+    },
     "com.google.code.gson:gson": {
         "groupId": "com.google.code.gson",
         "artifactId": "gson",
