@@ -109,6 +109,11 @@
         "artifactId": "typed-testing-shared",
         "version": "0.0.1"
     },
+    "com.google.code.findbugs:jsr305": {
+        "groupId": "com.google.code.findbugs",
+        "artifactId": "jsr305",
+        "version": "3.0.2"
+    },
     "com.google.code.gson:gson": {
         "groupId": "com.google.code.gson",
         "artifactId": "gson",
