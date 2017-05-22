@@ -144,6 +144,11 @@
         "artifactId": "dagger-compiler",
         "version": "2.11-rc2"
     },
+    "com.google.guava:guava": {
+        "groupId": "com.google.guava",
+        "artifactId": "guava",
+        "version": "20.0"
+    },
     "com.jakewharton:butterknife": {
         "groupId": "com.jakewharton",
         "artifactId": "butterknife",
