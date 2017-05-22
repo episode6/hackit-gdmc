@@ -139,6 +139,16 @@
         "artifactId": "dagger-compiler",
         "version": "2.11-rc2"
     },
+    "com.jakewharton:butterknife": {
+        "groupId": "com.jakewharton",
+        "artifactId": "butterknife",
+        "version": "8.6.0"
+    },
+    "com.jakewharton:butterknife-compiler": {
+        "groupId": "com.jakewharton",
+        "artifactId": "butterknife-compiler",
+        "version": "8.6.0"
+    },
     "javax.inject:javax.inject": {
         "groupId": "javax.inject",
         "artifactId": "javax.inject",
