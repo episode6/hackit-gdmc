@@ -1,4 +1,9 @@
 {
+    "com.afollestad.material-dialogs:core": {
+        "groupId": "com.afollestad.material-dialogs",
+        "artifactId": "core",
+        "version": "0.9.4.5"
+    },
     "com.android.support.constraint:constraint-layout": {
         "groupId": "com.android.support.constraint",
         "artifactId": "constraint-layout",
