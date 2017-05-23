@@ -119,6 +119,11 @@
         "artifactId": "auto-factory",
         "version": "1.0-beta5"
     },
+    "com.google.auto.value:auto-value": {
+        "groupId": "com.google.auto.value",
+        "artifactId": "auto-value",
+        "version": "1.4.1"
+    },
     "com.google.code.findbugs:jsr305": {
         "groupId": "com.google.code.findbugs",
         "artifactId": "jsr305",
