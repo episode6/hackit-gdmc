@@ -24,10 +24,20 @@
         "artifactId": "gradle",
         "version": "2.3.2"
     },
+    "com.episode6.hackit.chop:chop-android": {
+        "groupId": "com.episode6.hackit.chop",
+        "artifactId": "chop-android",
+        "version": "0.1.8.1"
+    },
     "com.episode6.hackit.chop:chop-core": {
         "groupId": "com.episode6.hackit.chop",
         "artifactId": "chop-core",
-        "version": "0.1.8"
+        "version": "0.1.8.1"
+    },
+    "com.episode6.hackit.chop:chop-groovy": {
+        "groupId": "com.episode6.hackit.chop",
+        "artifactId": "chop-groovy",
+        "version": "0.1.8.1"
     },
     "com.episode6.hackit.deployable:deployable": {
         "groupId": "com.episode6.hackit.deployable",
