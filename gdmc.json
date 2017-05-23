@@ -114,6 +114,11 @@
         "artifactId": "typed-testing-shared",
         "version": "0.0.1"
     },
+    "com.google.auto.factory:auto-factory": {
+        "groupId": "com.google.auto.factory",
+        "artifactId": "auto-factory",
+        "version": "1.0-beta5"
+    },
     "com.google.code.findbugs:jsr305": {
         "groupId": "com.google.code.findbugs",
         "artifactId": "jsr305",
