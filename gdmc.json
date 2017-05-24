@@ -19,6 +19,11 @@
         "artifactId": "appcompat-v7",
         "version": "24.2.1"
     },
+    "com.android.support:cardview-v7": {
+        "groupId": "com.android.support",
+        "artifactId": "cardview-v7",
+        "version": "24.2.1"
+    },
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
