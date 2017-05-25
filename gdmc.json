@@ -189,6 +189,12 @@
         "artifactId": "butterknife-compiler",
         "version": "8.6.0"
     },
+    "javax.annotation:jsr250-api": {
+        "groupId": "javax.annotation",
+        "artifactId": "jsr250-api",
+        "version": "1.0",
+        "locked": true
+    },
     "javax.inject:javax.inject": {
         "groupId": "javax.inject",
         "artifactId": "javax.inject",
