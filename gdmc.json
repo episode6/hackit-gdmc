@@ -134,6 +134,11 @@
         "artifactId": "typed-testing-shared",
         "version": "0.0.2"
     },
+    "com.github.jengelman.gradle.plugins:shadow": {
+        "groupId": "com.github.jengelman.gradle.plugins",
+        "artifactId": "shadow",
+        "version": "2.0.0"
+    },
     "com.google.auto.factory:auto-factory": {
         "groupId": "com.google.auto.factory",
         "artifactId": "auto-factory",
