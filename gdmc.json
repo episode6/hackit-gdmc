@@ -34,6 +34,11 @@
         "artifactId": "gradle",
         "version": "2.3.2"
     },
+    "com.episode6.hackit.auto.factory:auto-factory-annotations": {
+        "groupId": "com.episode6.hackit.auto.factory",
+        "artifactId": "auto-factory-annotations",
+        "version": "1.0-beta5"
+    },
     "com.episode6.hackit.chop:chop-android": {
         "groupId": "com.episode6.hackit.chop",
         "artifactId": "chop-android",
