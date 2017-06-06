@@ -69,6 +69,16 @@
         "artifactId": "deployable",
         "version": "0.1.5"
     },
+    "com.episode6.hackit.disposable:disposable-futures": {
+        "groupId": "com.episode6.hackit.disposable",
+        "artifactId": "disposable-futures",
+        "version": "0.0.1"
+    },
+    "com.episode6.hackit.disposable:disposables-core": {
+        "groupId": "com.episode6.hackit.disposable",
+        "artifactId": "disposables-core",
+        "version": "0.0.1"
+    },
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
         "artifactId": "gdmc",
