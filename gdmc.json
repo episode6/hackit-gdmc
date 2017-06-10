@@ -99,11 +99,6 @@
         "artifactId": "gk-versions",
         "version": "0.0.3"
     },
-    "com.episode6.hackit.mockspresso:missingclass-tests": {
-        "groupId": "com.episode6.hackit.mockspresso",
-        "artifactId": "missingclass-tests",
-        "version": "0.0.6"
-    },
     "com.episode6.hackit.mockspresso:mockspresso-api": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-api",
@@ -137,11 +132,6 @@
     "com.episode6.hackit.mockspresso:mockspresso-reflect": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-reflect",
-        "version": "0.0.6"
-    },
-    "com.episode6.hackit.mockspresso:mockspresso-testing-shared": {
-        "groupId": "com.episode6.hackit.mockspresso",
-        "artifactId": "mockspresso-testing-shared",
         "version": "0.0.6"
     },
     "com.episode6.hackit.nestable:nestable": {
