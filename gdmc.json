@@ -72,12 +72,17 @@
     "com.episode6.hackit.disposable:disposable-futures": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-futures",
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "com.episode6.hackit.disposable:disposables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposables-core",
-        "version": "0.0.1"
+        "version": "0.0.2"
+    },
+    "com.episode6.hackit.disposable:pausables-core": {
+        "groupId": "com.episode6.hackit.disposable",
+        "artifactId": "pausables-core",
+        "version": "0.0.2"
     },
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
