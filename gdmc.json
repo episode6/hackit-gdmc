@@ -32,7 +32,7 @@
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
-        "version": "2.3.2"
+        "version": "2.3.3"
     },
     "com.episode6.hackit.android.inject:context-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
