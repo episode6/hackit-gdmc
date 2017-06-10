@@ -149,11 +149,6 @@
         "artifactId": "typed-preferences",
         "version": "0.0.2"
     },
-    "com.episode6.hackit.typed:typed-testing-shared": {
-        "groupId": "com.episode6.hackit.typed",
-        "artifactId": "typed-testing-shared",
-        "version": "0.0.2"
-    },
     "com.github.jengelman.gradle.plugins:shadow": {
         "groupId": "com.github.jengelman.gradle.plugins",
         "artifactId": "shadow",
