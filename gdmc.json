@@ -192,22 +192,22 @@
     "com.google.dagger:dagger": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger",
-        "version": "2.11-rc2"
+        "version": "2.11"
     },
     "com.google.dagger:dagger-android": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-android",
-        "version": "2.11-rc2"
+        "version": "2.11"
     },
     "com.google.dagger:dagger-android-processor": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-android-processor",
-        "version": "2.11-rc2"
+        "version": "2.11"
     },
     "com.google.dagger:dagger-compiler": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-compiler",
-        "version": "2.11-rc2"
+        "version": "2.11"
     },
     "com.google.guava:guava": {
         "groupId": "com.google.guava",
