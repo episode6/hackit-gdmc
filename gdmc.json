@@ -1,4 +1,12 @@
 {
+    "android.compilesdk":{
+        "version": "25",
+        "locked": true
+    },
+    "android.buildtools":{
+        "version": "26.0.0",
+        "locked": true
+    },
     "com.afollestad.material-dialogs:core": {
         "groupId": "com.afollestad.material-dialogs",
         "artifactId": "core",
