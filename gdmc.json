@@ -273,27 +273,27 @@
     "org.powermock:powermock-api-easymock": {
         "groupId": "org.powermock",
         "artifactId": "powermock-api-easymock",
-        "version": "1.7.0RC4"
+        "version": "1.7.0"
     },
     "org.powermock:powermock-api-mockito2": {
         "groupId": "org.powermock",
         "artifactId": "powermock-api-mockito2",
-        "version": "1.7.0RC4"
+        "version": "1.7.0"
     },
     "org.powermock:powermock-classloading-xstream": {
         "groupId": "org.powermock",
         "artifactId": "powermock-classloading-xstream",
-        "version": "1.7.0RC4"
+        "version": "1.7.0"
     },
     "org.powermock:powermock-module-junit4": {
         "groupId": "org.powermock",
         "artifactId": "powermock-module-junit4",
-        "version": "1.7.0RC4"
+        "version": "1.7.0"
     },
     "org.powermock:powermock-module-junit4-rule": {
         "groupId": "org.powermock",
         "artifactId": "powermock-module-junit4-rule",
-        "version": "1.7.0RC4"
+        "version": "1.7.0"
     },
     "org.robolectric:robolectric": {
         "groupId": "org.robolectric",
