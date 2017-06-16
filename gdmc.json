@@ -268,7 +268,7 @@
     "org.mockito:mockito-core": {
         "groupId": "org.mockito",
         "artifactId": "mockito-core",
-        "version": "2.8.9"
+        "version": "2.8.47"
     },
     "org.powermock:powermock-api-easymock": {
         "groupId": "org.powermock",
