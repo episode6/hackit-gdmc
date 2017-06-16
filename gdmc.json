@@ -247,7 +247,7 @@
     "org.bouncycastle:bcpg-jdk15on": {
         "groupId": "org.bouncycastle",
         "artifactId": "bcpg-jdk15on",
-        "version": "1.56"
+        "version": "1.57"
     },
     "org.easymock:easymock": {
         "groupId": "org.easymock",
