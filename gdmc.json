@@ -87,20 +87,25 @@
         "artifactId": "deployable",
         "version": "0.1.5"
     },
+    "com.episode6.hackit.disposable:disposable-butterknife": {
+        "groupId": "com.episode6.hackit.disposable",
+        "artifactId": "disposable-butterknife",
+        "version": "0.0.4"
+    },
     "com.episode6.hackit.disposable:disposable-futures": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-futures",
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "com.episode6.hackit.disposable:disposables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposables-core",
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "com.episode6.hackit.disposable:pausables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "pausables-core",
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
