@@ -45,17 +45,17 @@
     "com.episode6.hackit.android.inject:context-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
         "artifactId": "context-annotations",
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "com.episode6.hackit.android.inject:context-modules": {
         "groupId": "com.episode6.hackit.android.inject",
         "artifactId": "context-modules",
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "com.episode6.hackit.android.inject:more-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
         "artifactId": "more-annotations",
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "com.episode6.hackit.auto.factory:auto-factory-annotations": {
         "groupId": "com.episode6.hackit.auto.factory",
