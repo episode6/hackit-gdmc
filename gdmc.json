@@ -257,6 +257,11 @@
         "artifactId": "dagger",
         "version": "1.2.5"
     },
+    "com.squareup.retrofit2:retrofit": {
+        "groupId": "com.squareup.retrofit2",
+        "artifactId": "retrofit",
+        "version": "2.3.0"
+    },
     "javax.annotation:jsr250-api": {
         "groupId": "javax.annotation",
         "artifactId": "jsr250-api",
