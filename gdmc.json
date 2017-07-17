@@ -90,27 +90,37 @@
     "com.episode6.hackit.disposable:disposable-android": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-android",
-        "version": "0.0.6"
+        "version": "0.0.7"
     },
     "com.episode6.hackit.disposable:disposable-butterknife": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-butterknife",
-        "version": "0.0.6"
+        "version": "0.0.7"
     },
     "com.episode6.hackit.disposable:disposable-futures": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-futures",
-        "version": "0.0.6"
+        "version": "0.0.7"
+    },
+    "com.episode6.hackit.disposable:disposable-rx": {
+        "groupId": "com.episode6.hackit.disposable",
+        "artifactId": "disposable-rx",
+        "version": "0.0.7"
     },
     "com.episode6.hackit.disposable:disposables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposables-core",
-        "version": "0.0.6"
+        "version": "0.0.7"
+    },
+    "com.episode6.hackit.disposable:pausable-android": {
+        "groupId": "com.episode6.hackit.disposable",
+        "artifactId": "pausable-android",
+        "version": "0.0.7"
     },
     "com.episode6.hackit.disposable:pausables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "pausables-core",
-        "version": "0.0.6"
+        "version": "0.0.7"
     },
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
