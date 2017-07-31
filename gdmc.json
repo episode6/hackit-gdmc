@@ -190,17 +190,17 @@
     "com.episode6.hackit.typed:typed-bundles": {
         "groupId": "com.episode6.hackit.typed",
         "artifactId": "typed-bundles",
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "com.episode6.hackit.typed:typed-core": {
         "groupId": "com.episode6.hackit.typed",
         "artifactId": "typed-core",
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "com.episode6.hackit.typed:typed-preferences": {
         "groupId": "com.episode6.hackit.typed",
         "artifactId": "typed-preferences",
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "com.github.jengelman.gradle.plugins:shadow": {
         "groupId": "com.github.jengelman.gradle.plugins",
