@@ -235,7 +235,7 @@
     "com.google.dagger:dagger": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger",
-        "version": "2.11"
+        "version": "2.12"
     },
     "com.google.dagger:dagger-android": {
         "groupId": "com.google.dagger",
@@ -322,7 +322,7 @@
     "org.easymock:easymock": {
         "groupId": "org.easymock",
         "artifactId": "easymock",
-        "version": "3.4"
+        "version": "3.5"
     },
     "org.easytesting:fest-assert-core": {
         "groupId": "org.easytesting",
@@ -338,37 +338,37 @@
     "org.mockito:mockito-core": {
         "groupId": "org.mockito",
         "artifactId": "mockito-core",
-        "version": "2.8.47"
+        "version": "2.9.0"
     },
     "org.mockito:mockito-inline": {
         "groupId": "org.mockito",
         "artifactId": "mockito-inline",
-        "version": "2.8.47"
+        "version": "2.9.0"
     },
     "org.powermock:powermock-api-easymock": {
         "groupId": "org.powermock",
         "artifactId": "powermock-api-easymock",
-        "version": "1.7.0"
+        "version": "1.7.3"
     },
     "org.powermock:powermock-api-mockito2": {
         "groupId": "org.powermock",
         "artifactId": "powermock-api-mockito2",
-        "version": "1.7.0"
+        "version": "1.7.3"
     },
     "org.powermock:powermock-classloading-xstream": {
         "groupId": "org.powermock",
         "artifactId": "powermock-classloading-xstream",
-        "version": "1.7.0"
+        "version": "1.7.3"
     },
     "org.powermock:powermock-module-junit4": {
         "groupId": "org.powermock",
         "artifactId": "powermock-module-junit4",
-        "version": "1.7.0"
+        "version": "1.7.3"
     },
     "org.powermock:powermock-module-junit4-rule": {
         "groupId": "org.powermock",
         "artifactId": "powermock-module-junit4-rule",
-        "version": "1.7.0"
+        "version": "1.7.3"
     },
     "org.robolectric:robolectric": {
         "groupId": "org.robolectric",
