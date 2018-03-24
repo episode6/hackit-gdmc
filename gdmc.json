@@ -290,7 +290,7 @@
     "io.reactivex.rxjava2:rxjava": {
         "groupId": "io.reactivex.rxjava2",
         "artifactId": "rxjava",
-        "version": "2.1.11"
+        "version": "2.1.12"
     },
     "javax.annotation:jsr250-api": {
         "groupId": "javax.annotation",
