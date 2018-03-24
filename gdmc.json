@@ -267,6 +267,11 @@
         "artifactId": "butterknife-compiler",
         "version": "8.8.1"
     },
+    "com.squareup.assertj:assertj-android": {
+        "groupId": "com.squareup.assertj",
+        "artifactId": "assertj-android",
+        "version": "1.2.0"
+    },
     "com.squareup.dagger:dagger": {
         "groupId": "com.squareup.dagger",
         "artifactId": "dagger",
