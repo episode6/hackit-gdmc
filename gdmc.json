@@ -22,6 +22,11 @@
         "artifactId": "espresso-core",
         "version": "3.0.1"
     },
+    "com.android.support:animated-vector-drawable": {
+        "groupId": "com.android.support",
+        "artifactId": "animated-vector-drawable",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
     "com.android.support:appcompat-v7": {
         "groupId": "com.android.support",
         "artifactId": "appcompat-v7",
@@ -30,12 +35,47 @@
     "com.android.support:cardview-v7": {
         "groupId": "com.android.support",
         "artifactId": "cardview-v7",
-        "version": "27.1.0"
+        "inheritVersion": "com.android.support:appcompat-v7"
     },
     "com.android.support:design": {
         "groupId": "com.android.support",
         "artifactId": "design",
-        "version": "27.1.0"
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:recyclerview-v7": {
+        "groupId": "com.android.support",
+        "artifactId": "recyclerview-v7",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:support-annotations": {
+        "groupId": "com.android.support",
+        "artifactId": "support-annotations",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:support-compat": {
+        "groupId": "com.android.support",
+        "artifactId": "support-compat",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:support-core-ui": {
+        "groupId": "com.android.support",
+        "artifactId": "support-core-ui",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:support-core-utils": {
+        "groupId": "com.android.support",
+        "artifactId": "support-core-utils",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:support-fragment": {
+        "groupId": "com.android.support",
+        "artifactId": "support-fragment",
+        "inheritVersion": "com.android.support:appcompat-v7"
+    },
+    "com.android.support:support-vector-drawable": {
+        "groupId": "com.android.support",
+        "artifactId": "support-vector-drawable",
+        "inheritVersion": "com.android.support:appcompat-v7"
     },
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
@@ -50,22 +90,22 @@
     "com.episode6.hackit.android.inject:context-modules": {
         "groupId": "com.episode6.hackit.android.inject",
         "artifactId": "context-modules",
-        "version": "0.0.3"
+        "inheritVersion": "com.episode6.hackit.android.inject:context-annotations"
     },
     "com.episode6.hackit.android.inject:more-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
         "artifactId": "more-annotations",
-        "version": "0.0.3"
+        "inheritVersion": "com.episode6.hackit.android.inject:context-annotations"
     },
     "com.episode6.hackit.auto.factory:auto-factory-annotations": {
         "groupId": "com.episode6.hackit.auto.factory",
         "artifactId": "auto-factory-annotations",
-        "version": "1.0-beta5"
+        "inheritVersion": "com.google.auto.factory:auto-factory"
     },
     "com.episode6.hackit.chop:chop-android": {
         "groupId": "com.episode6.hackit.chop",
         "artifactId": "chop-android",
-        "version": "0.1.9"
+        "inheritVersion": "com.episode6.hackit.chop:chop-core"
     },
     "com.episode6.hackit.chop:chop-core": {
         "groupId": "com.episode6.hackit.chop",
@@ -75,12 +115,12 @@
     "com.episode6.hackit.chop:chop-groovy": {
         "groupId": "com.episode6.hackit.chop",
         "artifactId": "chop-groovy",
-        "version": "0.1.9"
+        "inheritVersion": "com.episode6.hackit.chop:chop-core"
     },
     "com.episode6.hackit.chop:chop-junit": {
         "groupId": "com.episode6.hackit.chop",
         "artifactId": "chop-junit",
-        "version": "0.1.9"
+        "inheritVersion": "com.episode6.hackit.chop:chop-core"
     },
     "com.episode6.hackit.deployable:deployable": {
         "groupId": "com.episode6.hackit.deployable",
@@ -90,22 +130,22 @@
     "com.episode6.hackit.disposable:disposable-android": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-android",
-        "version": "0.0.7"
+        "inheritVersion": "com.episode6.hackit.disposable:disposables-core"
     },
     "com.episode6.hackit.disposable:disposable-butterknife": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-butterknife",
-        "version": "0.0.7"
+        "inheritVersion": "com.episode6.hackit.disposable:disposables-core"
     },
     "com.episode6.hackit.disposable:disposable-futures": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-futures",
-        "version": "0.0.7"
+        "inheritVersion": "com.episode6.hackit.disposable:disposables-core"
     },
     "com.episode6.hackit.disposable:disposable-rx": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposable-rx",
-        "version": "0.0.7"
+        "inheritVersion": "com.episode6.hackit.disposable:disposables-core"
     },
     "com.episode6.hackit.disposable:disposables-core": {
         "groupId": "com.episode6.hackit.disposable",
@@ -115,12 +155,12 @@
     "com.episode6.hackit.disposable:pausable-android": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "pausable-android",
-        "version": "0.0.7"
+        "inheritVersion": "com.episode6.hackit.disposable:disposables-core"
     },
     "com.episode6.hackit.disposable:pausables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "pausables-core",
-        "version": "0.0.7"
+        "inheritVersion": "com.episode6.hackit.disposable:disposables-core"
     },
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
@@ -135,12 +175,12 @@
     "com.episode6.hackit.groovykit:gk-versions": {
         "groupId": "com.episode6.hackit.groovykit",
         "artifactId": "gk-versions",
-        "version": "0.0.3"
+        "inheritVersion": "com.episode6.hackit.groovykit:gk-files"
     },
     "com.episode6.hackit.mockspresso:mockspresso-api": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-api",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-core": {
         "groupId": "com.episode6.hackit.mockspresso",
@@ -150,42 +190,42 @@
     "com.episode6.hackit.mockspresso:mockspresso-dagger": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-dagger",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-easymock": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-easymock",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-easymock-powermock": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-easymock-powermock",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-guava": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-guava",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-mockito": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-mockito",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-mockito-powermock": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-mockito-powermock",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-quick": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-quick",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-reflect": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-reflect",
-        "version": "0.0.12"
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.nestable:nestable": {
         "groupId": "com.episode6.hackit.nestable",
@@ -195,7 +235,7 @@
     "com.episode6.hackit.typed:typed-bundles": {
         "groupId": "com.episode6.hackit.typed",
         "artifactId": "typed-bundles",
-        "version": "0.0.4"
+        "inheritVersion": "com.episode6.hackit.typed:typed-core"
     },
     "com.episode6.hackit.typed:typed-core": {
         "groupId": "com.episode6.hackit.typed",
@@ -205,12 +245,12 @@
     "com.episode6.hackit.typed:typed-preferences": {
         "groupId": "com.episode6.hackit.typed",
         "artifactId": "typed-preferences",
-        "version": "0.0.4"
+        "inheritVersion": "com.episode6.hackit.typed:typed-core"
     },
     "com.github.jengelman.gradle.plugins:shadow": {
         "groupId": "com.github.jengelman.gradle.plugins",
         "artifactId": "shadow",
-        "version": "2.0.2"
+        "version": "2.0.3"
     },
     "com.google.auto.factory:auto-factory": {
         "groupId": "com.google.auto.factory",
@@ -240,17 +280,17 @@
     "com.google.dagger:dagger-android": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-android",
-        "version": "2.15"
+        "inheritVersion": "com.google.dagger:dagger"
     },
     "com.google.dagger:dagger-android-processor": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-android-processor",
-        "version": "2.15"
+        "inheritVersion": "com.google.dagger:dagger"
     },
     "com.google.dagger:dagger-compiler": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-compiler",
-        "version": "2.15"
+        "inheritVersion": "com.google.dagger:dagger"
     },
     "com.google.guava:guava": {
         "groupId": "com.google.guava",
@@ -262,10 +302,15 @@
         "artifactId": "butterknife",
         "version": "8.8.1"
     },
+    "com.jakewharton:butterknife-annotations": {
+        "groupId": "com.jakewharton",
+        "artifactId": "butterknife-annotations",
+        "inheritVersion": "com.jakewharton:butterknife"
+    },
     "com.jakewharton:butterknife-compiler": {
         "groupId": "com.jakewharton",
         "artifactId": "butterknife-compiler",
-        "version": "8.8.1"
+        "inheritVersion": "com.jakewharton:butterknife"
     },
     "com.squareup.assertj:assertj-android": {
         "groupId": "com.squareup.assertj",
@@ -280,7 +325,7 @@
     "com.squareup.retrofit2:converter-gson": {
         "groupId": "com.squareup.retrofit2",
         "artifactId": "converter-gson",
-        "version": "2.4.0"
+        "inheritVersion": "com.squareup.retrofit2:retrofit"
     },
     "com.squareup.retrofit2:retrofit": {
         "groupId": "com.squareup.retrofit2",
@@ -353,32 +398,37 @@
     "org.mockito:mockito-inline": {
         "groupId": "org.mockito",
         "artifactId": "mockito-inline",
-        "version": "2.9.0"
+        "inheritVersion": "org.mockito:mockito-core"
     },
     "org.powermock:powermock-api-easymock": {
         "groupId": "org.powermock",
         "artifactId": "powermock-api-easymock",
-        "version": "1.7.3"
+        "inheritVersion": "org.powermock:powermock-core"
     },
     "org.powermock:powermock-api-mockito2": {
         "groupId": "org.powermock",
         "artifactId": "powermock-api-mockito2",
-        "version": "1.7.3"
+        "inheritVersion": "org.powermock:powermock-core"
     },
     "org.powermock:powermock-classloading-xstream": {
         "groupId": "org.powermock",
         "artifactId": "powermock-classloading-xstream",
+        "inheritVersion": "org.powermock:powermock-core"
+    },
+    "org.powermock:powermock-core": {
+        "groupId": "org.powermock",
+        "artifactId": "powermock-core",
         "version": "1.7.3"
     },
     "org.powermock:powermock-module-junit4": {
         "groupId": "org.powermock",
         "artifactId": "powermock-module-junit4",
-        "version": "1.7.3"
+        "inheritVersion": "org.powermock:powermock-core"
     },
     "org.powermock:powermock-module-junit4-rule": {
         "groupId": "org.powermock",
         "artifactId": "powermock-module-junit4-rule",
-        "version": "1.7.3"
+        "inheritVersion": "org.powermock:powermock-core"
     },
     "org.robolectric:robolectric": {
         "groupId": "org.robolectric",
