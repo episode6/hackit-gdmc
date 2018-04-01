@@ -1,6 +1,6 @@
 {
     "android.buildtools": {
-        "version": "26.0.2",
+        "version": "27.0.3",
         "locked": true
     },
     "android.compilesdk": {
@@ -80,7 +80,7 @@
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
-        "version": "3.0.1"
+        "version": "3.1.0"
     },
     "com.episode6.hackit.android.inject:context-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
