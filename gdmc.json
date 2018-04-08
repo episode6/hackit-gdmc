@@ -377,7 +377,7 @@
     "org.easymock:easymock": {
         "groupId": "org.easymock",
         "artifactId": "easymock",
-        "version": "3.5"
+        "version": "3.5.1"
     },
     "org.easytesting:fest-assert-core": {
         "groupId": "org.easytesting",
@@ -393,7 +393,7 @@
     "org.mockito:mockito-core": {
         "groupId": "org.mockito",
         "artifactId": "mockito-core",
-        "version": "2.9.0"
+        "version": "2.18.0"
     },
     "org.mockito:mockito-inline": {
         "groupId": "org.mockito",
@@ -418,7 +418,7 @@
     "org.powermock:powermock-core": {
         "groupId": "org.powermock",
         "artifactId": "powermock-core",
-        "version": "1.7.3"
+        "version": "2.0.0-beta.5"
     },
     "org.powermock:powermock-module-junit4": {
         "groupId": "org.powermock",
