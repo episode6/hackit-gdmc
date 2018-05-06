@@ -250,7 +250,7 @@
     "com.github.jengelman.gradle.plugins:shadow": {
         "groupId": "com.github.jengelman.gradle.plugins",
         "artifactId": "shadow",
-        "version": "2.0.3"
+        "version": "2.0.4"
     },
     "com.google.auto.factory:auto-factory": {
         "groupId": "com.google.auto.factory",
