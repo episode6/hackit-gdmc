@@ -15,12 +15,12 @@
     "com.android.support.constraint:constraint-layout": {
         "groupId": "com.android.support.constraint",
         "artifactId": "constraint-layout",
-        "version": "1.0.2"
+        "version": "1.1.0"
     },
     "com.android.support.test.espresso:espresso-core": {
         "groupId": "com.android.support.test.espresso",
         "artifactId": "espresso-core",
-        "version": "3.0.1"
+        "version": "3.0.2"
     },
     "com.android.support:animated-vector-drawable": {
         "groupId": "com.android.support",
@@ -80,7 +80,7 @@
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
-        "version": "3.1.1"
+        "version": "3.1.2"
     },
     "com.episode6.hackit.android.inject:context-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
@@ -150,7 +150,7 @@
     "com.episode6.hackit.disposable:disposables-core": {
         "groupId": "com.episode6.hackit.disposable",
         "artifactId": "disposables-core",
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "com.episode6.hackit.disposable:pausable-android": {
         "groupId": "com.episode6.hackit.disposable",
@@ -340,7 +340,7 @@
     "io.reactivex.rxjava2:rxjava": {
         "groupId": "io.reactivex.rxjava2",
         "artifactId": "rxjava",
-        "version": "2.1.12"
+        "version": "2.1.13"
     },
     "javax.annotation:jsr250-api": {
         "groupId": "javax.annotation",
