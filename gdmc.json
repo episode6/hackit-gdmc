@@ -389,6 +389,16 @@
         "artifactId": "fest-assert-core",
         "version": "2.0M10"
     },
+    "org.jetbrains.dokka:dokka-gradle-plugin": {
+        "groupId": "org.jetbrains.dokka",
+        "artifactId": "dokka-gradle-plugin",
+        "version": "0.9.16"
+    },
+    "org.jetbrains.kotlin:kotlin-annotation-processing-gradle": {
+        "groupId": "org.jetbrains.kotlin",
+        "artifactId": "kotlin-annotation-processing-gradle",
+        "inheritVersion": "org.jetbrains.kotlin:kotlin-gradle-plugin"
+    },
     "org.jetbrains.kotlin:kotlin-gradle-plugin": {
         "groupId": "org.jetbrains.kotlin",
         "artifactId": "kotlin-gradle-plugin",
