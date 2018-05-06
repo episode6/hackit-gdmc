@@ -389,6 +389,11 @@
         "artifactId": "kotlin-gradle-plugin",
         "version": "1.2.40"
     },
+    "org.jetbrains.kotlin:kotlin-reflect": {
+        "groupId": "org.jetbrains.kotlin",
+        "artifactId": "kotlin-reflect",
+        "inheritVersion": "org.jetbrains.kotlin:kotlin-gradle-plugin"
+    },
     "org.jetbrains.kotlin:kotlin-stdlib": {
         "groupId": "org.jetbrains.kotlin",
         "artifactId": "kotlin-stdlib",
