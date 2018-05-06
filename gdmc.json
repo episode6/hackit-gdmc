@@ -384,6 +384,21 @@
         "artifactId": "fest-assert-core",
         "version": "2.0M10"
     },
+    "org.jetbrains.kotlin:kotlin-gradle-plugin": {
+        "groupId": "org.jetbrains.kotlin",
+        "artifactId": "kotlin-gradle-plugin",
+        "inheritVersion": "org.jetbrains.kotlin:kotlin-stdlib"
+    },
+    "org.jetbrains.kotlin:kotlin-stdlib": {
+        "groupId": "org.jetbrains.kotlin",
+        "artifactId": "kotlin-stdlib",
+        "version": "1.2.40"
+    },
+    "org.jetbrains.kotlin:kotlin-stdlib-jdk7": {
+        "groupId": "org.jetbrains.kotlin",
+        "artifactId": "kotlin-stdlib-jdk7",
+        "inheritVersion": "org.jetbrains.kotlin:kotlin-stdlib"
+    },
     "org.mockito:mockito-all": {
         "groupId": "org.mockito",
         "artifactId": "mockito-all",
