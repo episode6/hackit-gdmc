@@ -312,6 +312,11 @@
         "artifactId": "butterknife-compiler",
         "inheritVersion": "com.jakewharton:butterknife"
     },
+    "com.nhaarman:mockito-kotlin": {
+        "groupId": "com.nhaarman",
+        "artifactId": "mockito-kotlin",
+        "version": "1.5.0"
+    },
     "com.squareup.assertj:assertj-android": {
         "groupId": "com.squareup.assertj",
         "artifactId": "assertj-android",
