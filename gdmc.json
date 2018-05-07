@@ -389,6 +389,11 @@
         "artifactId": "fest-assert-core",
         "version": "2.0M10"
     },
+    "org.jetbrains.dokka:dokka-android-gradle-plugin": {
+        "groupId": "org.jetbrains.dokka",
+        "artifactId": "dokka-android-gradle-plugin",
+        "inheritVersion": "org.jetbrains.dokka:dokka-gradle-plugin"
+    },
     "org.jetbrains.dokka:dokka-gradle-plugin": {
         "groupId": "org.jetbrains.dokka",
         "artifactId": "dokka-gradle-plugin",
