@@ -287,6 +287,11 @@
         "artifactId": "dagger-android-processor",
         "inheritVersion": "com.google.dagger:dagger"
     },
+    "com.google.dagger:dagger-android-support": {
+        "groupId": "com.google.dagger",
+        "artifactId": "dagger-android-support",
+      "inheritVersion": "com.google.dagger:dagger"
+    },
     "com.google.dagger:dagger-compiler": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-compiler",
