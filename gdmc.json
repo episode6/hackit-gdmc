@@ -290,7 +290,7 @@
     "com.google.dagger:dagger-android-support": {
         "groupId": "com.google.dagger",
         "artifactId": "dagger-android-support",
-      "inheritVersion": "com.google.dagger:dagger"
+        "inheritVersion": "com.google.dagger:dagger"
     },
     "com.google.dagger:dagger-compiler": {
         "groupId": "com.google.dagger",
@@ -402,7 +402,7 @@
     "org.jetbrains.dokka:dokka-gradle-plugin": {
         "groupId": "org.jetbrains.dokka",
         "artifactId": "dokka-gradle-plugin",
-        "version": "0.9.16"
+        "version": "0.9.17"
     },
     "org.jetbrains.kotlin:kotlin-annotation-processing-gradle": {
         "groupId": "org.jetbrains.kotlin",
