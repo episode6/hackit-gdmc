@@ -480,6 +480,11 @@
         "artifactId": "robolectric",
         "version": "3.8"
     },
+    "org.robolectric:shadows-supportv4": {
+        "groupId": "org.robolectric",
+        "artifactId": "shadows-supportv4",
+        "inheritVersion": "org.robolectric:robolectric"
+    },
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
         "artifactId": "spock-core",
