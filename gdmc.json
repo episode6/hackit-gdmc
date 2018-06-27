@@ -182,10 +182,15 @@
         "artifactId": "mockspresso-api",
         "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
+    "com.episode6.hackit.mockspresso:mockspresso-basic-plugins": {
+        "groupId": "com.episode6.hackit.mockspresso",
+        "artifactId": "mockspresso-basic-plugins",
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
+    },
     "com.episode6.hackit.mockspresso:mockspresso-core": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-core",
-        "version": "0.0.12"
+        "version": "0.0.13"
     },
     "com.episode6.hackit.mockspresso:mockspresso-dagger": {
         "groupId": "com.episode6.hackit.mockspresso",
@@ -200,6 +205,11 @@
     "com.episode6.hackit.mockspresso:mockspresso-easymock-powermock": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-easymock-powermock",
+        "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
+    },
+    "com.episode6.hackit.mockspresso:mockspresso-extend": {
+        "groupId": "com.episode6.hackit.mockspresso",
+        "artifactId": "mockspresso-extend",
         "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
     "com.episode6.hackit.mockspresso:mockspresso-guava": {
