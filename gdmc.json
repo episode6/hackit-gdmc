@@ -1,8 +1,4 @@
 {
-    "android.buildtools": {
-        "version": "27.0.3",
-        "locked": true
-    },
     "android.compilesdk": {
         "version": "26",
         "locked": true
