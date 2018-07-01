@@ -1,6 +1,6 @@
 {
     "android.compilesdk": {
-        "version": "26",
+        "version": "27",
         "locked": true
     },
     "com.afollestad.material-dialogs:core": {
