@@ -328,6 +328,11 @@
         "artifactId": "butterknife-compiler",
         "inheritVersion": "com.jakewharton:butterknife"
     },
+    "com.jfrog.bintray.gradle:gradle-bintray-plugin": {
+        "groupId": "com.jfrog.bintray.gradle",
+        "artifactId": "gradle-bintray-plugin",
+        "version": "1.8.4"
+    },
     "com.nhaarman:mockito-kotlin": {
         "groupId": "com.nhaarman",
         "artifactId": "mockito-kotlin",
