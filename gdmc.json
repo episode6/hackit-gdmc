@@ -506,6 +506,11 @@
         "artifactId": "shadows-supportv4",
         "inheritVersion": "org.robolectric:robolectric"
     },
+    "org.slf4j:slf4j-api": {
+        "groupId": "org.slf4j",
+        "artifactId": "slf4j-api",
+        "version": "1.7.25"
+    },
     "org.spockframework:spock-core": {
         "groupId": "org.spockframework",
         "artifactId": "spock-core",
