@@ -76,12 +76,12 @@
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
-        "version": "3.1.3"
+        "version": "3.3.0"
     },
     "com.android.tools.lint:lint-gradle": {
         "groupId": "com.android.tools.lint",
         "artifactId": "lint-gradle",
-        "version": "26.1.3"
+        "version": "26.3.0"
     },
     "com.episode6.hackit.android.inject:context-annotations": {
         "groupId": "com.episode6.hackit.android.inject",
