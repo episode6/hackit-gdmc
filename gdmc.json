@@ -243,6 +243,11 @@
         "artifactId": "mockspresso-reflect",
         "inheritVersion": "com.episode6.hackit.mockspresso:mockspresso-core"
     },
+    "com.episode6.hackit.mockspresso:mockspresso-reflect-guava": {
+        "groupId": "com.episode6.hackit.mockspresso",
+        "artifactId": "mockspresso-reflect-guava",
+        "version": "27.1-android"
+    },
     "com.episode6.hackit.nestable:nestable": {
         "groupId": "com.episode6.hackit.nestable",
         "artifactId": "nestable",
