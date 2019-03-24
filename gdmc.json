@@ -196,7 +196,7 @@
     "com.episode6.hackit.mockspresso:mockspresso-core": {
         "groupId": "com.episode6.hackit.mockspresso",
         "artifactId": "mockspresso-core",
-        "version": "0.0.15"
+        "version": "0.0.16"
     },
     "com.episode6.hackit.mockspresso:mockspresso-dagger": {
         "groupId": "com.episode6.hackit.mockspresso",
