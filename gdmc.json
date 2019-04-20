@@ -171,7 +171,7 @@
     "com.episode6.hackit.gdmc:gdmc": {
         "groupId": "com.episode6.hackit.gdmc",
         "artifactId": "gdmc",
-        "version": "0.1.10"
+        "version": "0.1.11"
     },
     "com.episode6.hackit.groovykit:gk-files": {
         "groupId": "com.episode6.hackit.groovykit",
