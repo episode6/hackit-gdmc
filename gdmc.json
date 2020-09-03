@@ -453,7 +453,7 @@
     "org.jetbrains.kotlin:kotlin-gradle-plugin": {
         "groupId": "org.jetbrains.kotlin",
         "artifactId": "kotlin-gradle-plugin",
-        "version": "1.3.72"
+        "version": "1.4.0"
     },
     "org.jetbrains.kotlin:kotlin-reflect": {
         "groupId": "org.jetbrains.kotlin",
