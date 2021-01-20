@@ -76,7 +76,7 @@
     "com.android.tools.build:gradle": {
         "groupId": "com.android.tools.build",
         "artifactId": "gradle",
-        "version": "3.3.0"
+        "version": "4.1.2"
     },
     "com.android.tools.lint:lint-gradle": {
         "groupId": "com.android.tools.lint",
@@ -341,7 +341,7 @@
     "com.jfrog.bintray.gradle:gradle-bintray-plugin": {
         "groupId": "com.jfrog.bintray.gradle",
         "artifactId": "gradle-bintray-plugin",
-        "version": "1.8.4"
+        "version": "1.8.5"
     },
     "com.nhaarman.mockitokotlin2:mockito-kotlin": {
         "groupId": "com.nhaarman.mockitokotlin2",
@@ -453,7 +453,7 @@
     "org.jetbrains.kotlin:kotlin-gradle-plugin": {
         "groupId": "org.jetbrains.kotlin",
         "artifactId": "kotlin-gradle-plugin",
-        "version": "1.4.0"
+        "version": "1.4.21"
     },
     "org.jetbrains.kotlin:kotlin-reflect": {
         "groupId": "org.jetbrains.kotlin",
