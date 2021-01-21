@@ -423,7 +423,7 @@
     "org.bouncycastle:bcpg-jdk15on": {
         "groupId": "org.bouncycastle",
         "artifactId": "bcpg-jdk15on",
-        "version": "1.59"
+        "version": "1.68"
     },
     "org.easymock:easymock": {
         "groupId": "org.easymock",
@@ -443,7 +443,7 @@
     "org.jetbrains.dokka:dokka-gradle-plugin": {
         "groupId": "org.jetbrains.dokka",
         "artifactId": "dokka-gradle-plugin",
-        "version": "0.9.18"
+        "version": "1.4.20"
     },
     "org.jetbrains.kotlin:kotlin-annotation-processing-gradle": {
         "groupId": "org.jetbrains.kotlin",
